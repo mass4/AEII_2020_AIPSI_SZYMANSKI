@@ -9,7 +9,7 @@ Projekt realizowany w ramach przedmiotu Analiza i Projektowanie Systemów Inform
 
 | Lp. | Nazwisko i imię |
 | ------ | ------ |
-| 1. | Marcin Augustynowicz |
+| 1. | Augustynowicz Marcin |
 | 2. | Biel Dominik |
 | 3. | Chałas Patryk |
 | 4. | Guzik Bartłomiej |
