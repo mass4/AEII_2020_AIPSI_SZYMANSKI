@@ -9,7 +9,10 @@ Projekt realizowany w ramach przedmiotu Analiza i Projektowanie Systemów Inform
 
 | Lp. | Nazwisko i imię |
 | ------ | ------ |
-| 1. | Biel Dominik |
-| 2. | Chałas Patryk |
-| 3. | Guzik Bartłomiej |
-| 4. | Szymański Marek |
+| 1. | Marcin Augustynowicz |
+| 2. | Biel Dominik |
+| 3. | Chałas Patryk |
+| 4. | Guzik Bartłomiej |
+| 5. | Kryus Olaf |
+| 6. | Szymański Marek |
+
