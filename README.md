@@ -13,6 +13,7 @@ Projekt realizowany w ramach przedmiotu Analiza i Projektowanie Systemów Inform
 | 2. | Biel Dominik |
 | 3. | Chałas Patryk |
 | 4. | Guzik Bartłomiej |
-| 5. | Kryus Olaf |
-| 6. | Szymański Marek |
+| 5. | Kotasiński Mateusz |
+| 6. | Kryus Olaf |
+| 7. | Szymański Marek |
 
